@@ -1,4 +1,3 @@
-````markdown name=README.md
 # Perspective
 
 **Perspective** is a project designed to help users gain new insights and understanding by providing a structured, interactive, and easy-to-use platform. This application aims to facilitate thoughtful analysis, collaborative discussions, and well-documented requirements for building impactful solutions.
@@ -71,4 +70,3 @@ For questions, feedback, or support, please open an issue in the repository or c
 ---
 
 Thank you for using Perspective! We hope it helps you gain clarity and drive your projects forward.
-````
